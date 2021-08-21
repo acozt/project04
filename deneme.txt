@@ -5,3 +5,6 @@ eee başka başka napıyosun çok gelir misin buralara
 <<<<<<< HEAD
 çakışma olacak bu satırda aman dikkat et
 deneme remote 
+BBBBBBBBBBBBBBB
+BBBBBBBBBBBB
+BBBBBBBBBBBBBB
